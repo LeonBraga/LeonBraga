@@ -2,6 +2,4 @@
 ### I'm Leo Braga
 ### Front-End Developer
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonbraga)](https://github.com/leonbraga/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonbraga&count_private=true)
